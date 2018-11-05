@@ -1,0 +1,1 @@
+[null,{"name":"cls","permissions":"NONE","restriction":"1","actions":[{"info":"0","infoIndex":"1","storage":"1","varName":"antal","name":"Store Command Params"},{"channel":"0","count":"${tempVars(\"antal\")}","condition":"0","custom":"","varName":"","name":"Delete Bulk Messages"}]}]
